@@ -1,0 +1,20 @@
+.footer{
+  background-color: #2C2B2B;
+  margin-top: 50px;
+  text-align: center;
+  padding: 70px;
+  font-size: 20px;
+}
+
+.icon{
+  color: #1EDD88;
+  font-size: 35px;
+}
+
+.footer p{
+  color: rgb(178, 177, 177);
+}
+
+p > i{
+  color: red;
+}
